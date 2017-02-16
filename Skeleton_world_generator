@@ -70,7 +70,8 @@ def get_seed():
     if Setting == '':
         Setting = get_setting()
     if Title == '':
-        Title = Setting + ' World'
+        i=int(len(Setting)/4)
+        Title = Setting[:i]+Setting[i*3:] + ' World'
     return(Title, Setting)
         
 
@@ -78,7 +79,7 @@ def get_seed():
 
 Title, Setting = get_seed()
 ThemeA, ThemeB = get_premise()
-
+print(Title, Setting)
 
 
     
