@@ -1,0 +1,43 @@
+#!/usr/bin/env python3
+
+## example_function_name
+## ExampleVariableName
+
+import random
+
+
+ListOfThemes =[
+'balance',
+'belief',
+'change',
+'comfort',
+'destruction ',
+'corruption',
+'family ',
+'freedom',
+'friendship',
+'glory',
+'honour',
+'hunger',
+'justice',
+'knowledge ',
+'law/tradition',
+'love',
+'pain',
+'revenge',
+'unity',
+'survival',
+'violence',
+'wealth',
+]
+
+
+def get_premise()
+  ThemeA = random.randint(0, len(ListOfThemes))
+  ThemeB = random.randint(0, len(ListOfThemes))
+
+  ThemeA = ListOfThemes[ThemeA]
+  ThemeB = ListOfThemes[ThemeB]
+
+  print('Is ', ThemeA, ' more important to you than ', ThemeB, '?')
+  return(ThemeA, ThemeB)
