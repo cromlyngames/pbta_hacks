@@ -6,6 +6,19 @@
 import random
 
 
+ListOfSettings =[
+    'high fantasy', 'low fantasy', 'grim fantasy', 'age of sail', 'medieaval'
+    'space opera', 'cyberpunk', 'urban fantasy', 'slice-of-life','post-apocalypse'
+    'ancient legends', 'hard sci fi', 'steampunk', '1920s pulp', 'solarpunk'
+    ]
+
+ListOfParties =[
+    'circus', 'first responders', 'mercenaries', 'city gaurds', 'criminal gang',
+    'merchant convoy', 'monster hunters', 'smugglers and traders',
+    'investigators', 'boarding school', 'university', 'neighbours',
+    ]
+    
+
 ListOfThemes =[
 'balance',
 'belief',
@@ -31,8 +44,15 @@ ListOfThemes =[
 'wealth',
 ]
 
+def get_setting():
+  Setting = random.randint(0, len(ListOfSettings))
+  Party = random.randint(0, len(ListOfParties))
+  Setting = ListOfThemes[Setting]
+  Party = ListOfThemes[Party]
+  FullSetting = Party+' in '+Setting
+  return(FullSetting)
 
-def get_premise()
+def get_premise():
   ThemeA = random.randint(0, len(ListOfThemes))
   ThemeB = random.randint(0, len(ListOfThemes))
 
@@ -41,3 +61,22 @@ def get_premise()
 
   print('Is ', ThemeA, ' more important to you than ', ThemeB, '?')
   return(ThemeA, ThemeB)
+
+def get_seed():
+    Title = input('What is your game called?')
+    Setting = input('What is the broad setting? High Fantasy? Cyberpunk? ')
+    if Setting == '':
+        Setting = get_setting()
+    if Title == '':
+        Title = Setting + ' World'
+    return(Title, Setting)
+        
+
+## Main
+
+Title, Setting = get_seed()
+ThemeA, ThemeB = get_premise()
+
+
+
+    
