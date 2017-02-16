@@ -9,13 +9,15 @@ import random
 ListOfSettings =[
     'high fantasy', 'low fantasy', 'grim fantasy', 'age of sail', 'medieaval'
     'space opera', 'cyberpunk', 'urban fantasy', 'slice-of-life','post-apocalypse',
-    'ancient legends', 'hard sci fi', 'steampunk', '1920s pulp', 'solarpunk'
+    'ancient legends', 'hard sci fi', 'steampunk', '1920s pulp', 'solarpunk',
+    'pike and musket', 'victorina', 'colonial', 'diesel punk', 'dystopia'
     ]
 
 ListOfParties =[
     'circus', 'first responders', 'mercenaries', 'city gaurds', 'criminal gang',
     'merchant convoy', 'monster hunters', 'smugglers and traders',
-    'investigators', 'boarding school', 'university', 'neighbours',
+    'investigators', 'boarding school', 'university', 'neighbours', 'village',
+    'operatives', 'rebels', 'police','refugees','outsiders','beaureucrats'
     ]
     
 
