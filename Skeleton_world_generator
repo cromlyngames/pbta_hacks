@@ -8,7 +8,7 @@ import random
 
 ListOfSettings =[
     'high fantasy', 'low fantasy', 'grim fantasy', 'age of sail', 'medieaval'
-    'space opera', 'cyberpunk', 'urban fantasy', 'slice-of-life','post-apocalypse'
+    'space opera', 'cyberpunk', 'urban fantasy', 'slice-of-life','post-apocalypse',
     'ancient legends', 'hard sci fi', 'steampunk', '1920s pulp', 'solarpunk'
     ]
 
@@ -47,8 +47,8 @@ ListOfThemes =[
 def get_setting():
   Setting = random.randint(0, len(ListOfSettings))
   Party = random.randint(0, len(ListOfParties))
-  Setting = ListOfThemes[Setting]
-  Party = ListOfThemes[Party]
+  Setting = ListOfSettings[Setting]
+  Party = ListOfParties[Party]
   FullSetting = Party+' in '+Setting
   return(FullSetting)
 
