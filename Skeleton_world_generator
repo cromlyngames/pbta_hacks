@@ -78,8 +78,34 @@ def get_seed():
 ## Main
 
 Title, Setting = get_seed()
-ThemeA, ThemeB = get_premise()
+PremA, PremB = get_premise()
 print(Title, Setting)
 
+## TODO
+## Do you know what the heart of yourgame is?
+## yes
+## no -> PremA, PremB = get_premise()
 
-    
+## How important is PremA - Very, A bit, not
+## if both not PremA, PremB = get_premise()
+## very = lookup_mechanic
+## a bit = statA, StatB
+
+## What stat does a character use to:
+## Keep calm
+## Ignore difficulties
+## Take damage
+
+## Act forcefully
+## Act carefullly
+## Act stylishly
+
+## Seduce
+## Persuade
+## Threaten
+
+## Assess
+## Investigate
+## Recall knowledge
+
+
