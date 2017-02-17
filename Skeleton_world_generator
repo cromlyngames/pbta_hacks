@@ -15,8 +15,8 @@ ListOfSettings =[
 
 ListOfParties =[
     'circus', 'first responders', 'mercenaries', 'city gaurds', 'criminal gang',
-    'merchant convoy', 'monster hunters', 'smugglers and traders',
-    'investigators', 'boarding school', 'university', 'neighbours', 'village',
+    'merchant convoy', 'monster hunters', 'smugglers', 'traders',
+    'investigators', 'boarding school', 'university dept', 'neighbours', 'village',
     'operatives', 'rebels', 'police','refugees','outsiders','beaureucrats'
     ]
     
@@ -46,22 +46,36 @@ ListOfThemes =[
 'wealth',
 ]
 
+ListOfDeafaultMoves={
+    'Stop Adding Moves',
+    'Keep calm',
+    'Ignore difficulties',
+    'Take damage',
+    'Act forcefully',
+    'Act carefullly',
+    'Act stylishly',
+    'Seduce',
+    'Persuade',
+    'Threaten',
+    'Assess',
+    'Investigate',
+    'Recall knowledge'
+        }
+
+
 def get_setting():
-  Setting = random.randint(0, len(ListOfSettings))
-  Party = random.randint(0, len(ListOfParties))
+  Setting = random.randint(0, len(ListOfSettings)-1)
+  Party = random.randint(0, len(ListOfParties)-1)
   Setting = ListOfSettings[Setting]
   Party = ListOfParties[Party]
   FullSetting = Party+' in '+Setting
   return(FullSetting)
 
 def get_premise():
-  ThemeA = random.randint(0, len(ListOfThemes))
-  ThemeB = random.randint(0, len(ListOfThemes))
-
+  ThemeA = random.randint(0, len(ListOfThemes)-1)
+  ThemeB = random.randint(0, len(ListOfThemes)-1)
   ThemeA = ListOfThemes[ThemeA]
   ThemeB = ListOfThemes[ThemeB]
-
-  print('Is ', ThemeA, ' more important to you than ', ThemeB, '?')
   return(ThemeA, ThemeB)
 
 def get_seed():
@@ -70,16 +84,14 @@ def get_seed():
     if Setting == '':
         Setting = get_setting()
     if Title == '':
-        i=int(len(Setting)/4)
-        Title = Setting[:i]+Setting[i*3:] + ' World'
+        i=int(len(Setting)/3)
+        Title = Setting[:i]+Setting[i*2:] + ' World'
+        Title = Title.upper() 
     return(Title, Setting)
         
 
-## Main
 
-Title, Setting = get_seed()
-PremA, PremB = get_premise()
-print(Title, Setting)
+## Main
 
 ## TODO
 ## Do you know what the heart of yourgame is?
@@ -91,21 +103,22 @@ print(Title, Setting)
 ## very = lookup_mechanic
 ## a bit = statA, StatB
 
-## What stat does a character use to:
-## Keep calm
-## Ignore difficulties
-## Take damage
+Title, Setting = get_seed()
+PremA, PremB = get_premise() ## replace this
+print(Title)
+print('A', Setting, ' about ', PremA,' and ', PremB)
 
-## Act forcefully
-## Act carefullly
-## Act stylishly
+print('Choose some of these deafult moves (five is common, zero is possible, all twelve waters down the playbooks a bit.')
+for index, move in enumerate(ListOfDeafaultMoves):
+    print(index, ' : ', move)
+#print(ListOfStats)
+KeyIndex =5 ## inital value only
+while KeyIndex !=0:
+    KeyIndex= int(input('Number of move on list above  '))
+    StatName= input('Name of the Stat you roll for that  ')
+    MoveName= input('Custom Move name, (or leave blank for deafult  ')
+                                        
+      
 
-## Seduce
-## Persuade
-## Threaten
-
-## Assess
-## Investigate
-## Recall knowledge
 
 
