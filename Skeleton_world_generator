@@ -99,7 +99,12 @@ def rank_prems(PremA, PremB):
         PremARank = random.randint(1,3)
     if PremBRank == '' or PremBRank == '0':
         PremBRank = random.randint(1,3)
-    
+    if PremARank == '3' and PremBRank == '3':
+        print('your games needs to be about something')
+        PremA, PremB = getpremise()
+        PremARank, PremBrank = rank_prems(PremA, PremB)
+      
+      
 
 ## Main
 
