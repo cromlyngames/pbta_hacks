@@ -47,7 +47,7 @@ ListOfThemes =[
 'wealth',
 ]
 
-ListOfDeafaultMoves={
+ListOfDefaultMoves=(
     'Stop Adding Moves',
     'Keep calm',
     'Ignore difficulties',
@@ -61,54 +61,85 @@ ListOfDeafaultMoves={
     'Assess',
     'Investigate',
     'Recall knowledge'
-        }
+        )
 
 
-def get_setting():
-  Setting = random.randint(0, len(ListOfSettings)-1)
-  Party = random.randint(0, len(ListOfParties)-1)
-  Setting = ListOfSettings[Setting]
-  Party = ListOfParties[Party]
-  FullSetting = Party+' in '+Setting
-  return(FullSetting)
 
-def get_premise():
-  PremA = random.randint(0, len(ListOfThemes)-1)
-  PremB = random.randint(0, len(ListOfThemes)-1)
-  PremA = ListOfThemes[PremA]
-  PremB = ListOfThemes[PremB]
-  return(PremA, PremB)
+
+
 
 def get_seed():
-    Title = input('What is your game called?')
-    Setting = input('What is the broad setting? High Fantasy? Cyberpunk? ')
+    Title = input("What is your game called?")
+    Setting = input("What is the broad setting? High Fantasy? Cyberpunk? ")
     if Setting == '':
         Setting = get_setting()
     if Title == '':
         i=int(len(Setting)/3)
-        Title = Setting[:i]+Setting[i*2:] + ' World'
+        Title = Setting[:i]+Setting[i*2:] + " World"
         Title = Title.upper() 
     return(Title, Setting)
-        
+
+def get_setting():
+    Setting = random.randint(0, len(ListOfSettings)-1)
+    Party = random.randint(0, len(ListOfParties)-1)
+    Setting = ListOfSettings[Setting]
+    Party = ListOfParties[Party]
+    FullSetting = Party+' in '+Setting
+    return(FullSetting)
+
+def get_premise():
+    PremA = random.randint(0, len(ListOfThemes)-1)
+    PremB = random.randint(0, len(ListOfThemes)-1)
+    PremA = ListOfThemes[PremA]
+    PremB = ListOfThemes[PremB]
+    return(PremA, PremB)
+
 def rank_prems(PremA, PremB):
-    PremARank = input('How important to the game expereience is ', PremA, 
-                      " : 0= random 1 = Very, has a dedicated mechanic, 2= A bit, has a dedicated stat, 3= not, ignore it.")
-    PremBRank =  input('How important is ', PremB, 
-                       " : 0= random, 1 = Very, has a dedicated mechanic, 2= A bit, has a dedicated stat, 3= not, ignore it.")
-    if PremARank == '' or PremARank == '0':
-        PremARank = random.randint(1,3)
-    if PremBRank == '' or PremBRank == '0':
-        PremBRank = random.randint(1,3)
+    print("/n EXPLORING PREMISE /n")
+    print("How important to the game expereience is ", PremA, "?")
+    PremARank = input("blank = random 1 = Very, has a dedicated mechanic, 2= A bit, has a dedicated stat, 3= not, ignore it.") or random.randint(1,3)
+    print("How important is ", PremB, "?")
+    PremBRank =  input("blank = random, 1 = Very, has a dedicated mechanic, 2= A bit, has a dedicated stat, 3= not, ignore it.") or random.randint(1,3)
     if PremARank == '3' and PremBRank == '3':
-        print('your game needs to be about something')
+        print("your game needs to be about something")
         PremA, PremB = getpremise()
         PremARank, PremBRank = rank_prems(PremA, PremB)
     PremATuple = (PremA, PremARank)
     PremBTuple = (PremA, PremBRank)
     return(PremATuple, PremBTuple)
+
+def get_stats(ListOfStats):
+    DictOfMoves={}
+    KeyIndex =5 ## inital value only
+    
+    print('Current Stats: ', ListOfStats)
+    print('Choose some of these deafult moves (five is common, zero is possible, all twelve waters down the playbooks a bit.')
+    for index, move in enumerate(ListOfDefaultMoves):
+        print(index, ' : ', move)
+    
+    while KeyIndex !=0:
+        KeyIndex= int(input('Number of move on list above  ')or 0) 
+        if KeyIndex == 0:
+            break
+        StatName= input('Name of the Stat you roll for that  ')
+        MoveName= input('Custom Move name, (or leave blank for deafult  ') or ListOfDefaultMoves[KeyIndex]
+        ## by default, allow move=stat associations to be overridden
+        DictOfMoves[MoveName]= StatName
+    
+                                        
+def name_custom_stats(PremATuple, PremBTuple):
+    if PremATuple[1]=='2':
+        ListOfStats.append(PremATuple[0])
+    if PremBTuple[1]=='2':
+        ListOfStats.append(PremBTuple[0])
+    return(ListOfStats)
+        
+
     
       
-      
+def print_coverpage():
+    print(Title)
+    print('A', Setting, ' about ', PremA,' and ', PremB)
 
 ## Main
 
@@ -124,23 +155,14 @@ def rank_prems(PremA, PremB):
 
 Title, Setting = get_seed()
 PremA, PremB = get_premise()
-PremATuple, PremBtuple = rank_prems
 
-print(Title)
-print('A', Setting, ' about ', PremA,' and ', PremB)
+print_coverpage()
 
+PremATuple, PremBTuple = rank_prems(PremA, PremB)
+ListOfStats = []
+ListOfStats = name_custom_stats(PremATuple, PremBTuple)                           
+ListOfStats, DictOfMoves = get_stats(ListOfStats)
 
-
-print('Choose some of these deafult moves (five is common, zero is possible, all twelve waters down the playbooks a bit.')
-for index, move in enumerate(ListOfDeafaultMoves):
-    print(index, ' : ', move)
-#print(ListOfStats)
-KeyIndex =5 ## inital value only
-while KeyIndex !=0:
-    KeyIndex= int(input('Number of move on list above  '))
-    StatName= input('Name of the Stat you roll for that  ')
-    MoveName= input('Custom Move name, (or leave blank for deafult  ')
-                                        
       
 
 
