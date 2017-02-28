@@ -100,7 +100,7 @@ ListofPlayerMoveTriggers =(
     'you have a (thing). when applicable it adds two bonuses',
     'Straight bonus',
     'When you interact with another player, bonus',
-    'when you do (specialty) get hold. spend hold for bonus',
+    'when you do (specialty) get hold. spend hold for bonus'
         )
     
 ListofPlayerMoveBonus =(
@@ -109,7 +109,8 @@ ListofPlayerMoveBonus =(
     'bonus of mark xp',
     'power of springboard fiction (eg cast light)',
     'power of mechanical fiction (eg healing)',
-    'get knowledge ',
+    'get knowledge '
+        )
    
 ListofPlayerEngineParts =(
     'start of session momemtum triggers',
@@ -124,7 +125,8 @@ ListofPlayerEngineParts =(
     'broadcast npc motivations',
     'Mostly obediant entity',
     'director stance',
-    'author stance',
+    'author stance'
+        )
 
 def get_seed():
     Title = input("What is your game called?")
@@ -194,7 +196,14 @@ def name_custom_stats(PremATuple, PremBTuple):
     
     
         
-def get_random_player_move(StatA, StatB, Engine1)
+def get_random_player_move(StatA, StatB, Engine)
+    ChooserList=[StatA, StatA, StatB, Engine]
+    C1 = random.randint(0,len(ChooserList))
+    C2 = random.randint(0,len(ListofPlayerMoveTriggers))
+    C3 = randome.randint(0, len(ListofPlayerMoveBonus))
+    
+    print
+    
     
     
       
