@@ -63,10 +63,68 @@ ListOfDefaultMoves=(
     'Recall knowledge'
         )
 
+ListofDefaultGMPrinciples=(
+    'sprinkle evocative details everywhere ',
+    'make the world seem real',
+    'name everyone, make everyone human,
+    'build a bigger world through play',
+    'create interesting dilemmas not interesting plots',
+    'address yourself to the characters not players',
+    'be a fan of the players characters',
+    'make your move but misdirect',
+    'make your move, but never speak its name',
+    'ask provocative questions and build on the answers',
+    'sometimes, reflect a question back upon the players',
+    'Think off screen too',
+        )
 
+ListofDefaultGMMoves =(
+    'give them a difficult decision to make',
+    'tell them the possible consequences and ask',
+    'Use a front or threat move',
+    'Offer an opportunity, with or without a cost',
+    'Turn a failed move back on them',
+    'Offer Stuff that is painfully expensive but good',
+    'Put the spotlight on someone',
+    'seperate them',
+    'Put them together',
+    'make thier lives complicated now',
+    'use up their resources ',
+    'activate bad side of stuff',
+        )
 
-
-
+ListofPlayerMoveTriggers =(
+    'when you do something related to (specialty) bonus',
+    'you have the ability to (active power). it counts as base move using (stat)',
+    'you have (passive power with constant effect)',
+    'you have a (thing). when applicable it adds two bonuses',
+    'Straight bonus',
+    'When you interact with another player, bonus',
+    'when you do (specialty) get hold. spend hold for bonus',
+        )
+    
+ListofPlayerMoveBonus =(
+    'bonus of +1 to stat',
+    'bonus of reroll a fail',
+    'bonus of mark xp',
+    'power of springboard fiction (eg cast light)',
+    'power of mechanical fiction (eg healing)',
+    'get knowledge ',
+   
+ListofPlayerEngineParts =(
+    'start of session momemtum triggers',
+    'Cast of NPCs',
+    'cataliser of conflict',
+    'expand map',
+    'Instigate threat',
+    'fixed point to defend/orbit',
+    'need for supplies',
+    'supports risky play',
+    'countdown urgency',
+    'broadcast npc motivations',
+    'Mostly obediant entity',
+    'director stance',
+    'author stance',
 
 def get_seed():
     Title = input("What is your game called?")
@@ -133,8 +191,11 @@ def name_custom_stats(PremATuple, PremBTuple):
     if PremBTuple[1]=='2':
         ListOfStats.append(PremBTuple[0])
     return(ListOfStats)
+    
+    
         
-
+def get_random_player_move(StatA, StatB, Engine1)
+    
     
       
 def print_coverpage():
