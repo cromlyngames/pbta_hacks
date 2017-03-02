@@ -38,7 +38,22 @@ Plane entities obbsessed with a human emotion and a descriptive tag and a tactic
 EG Goblins - Disgust - mucusy small humanoids - ambush and traps
 
 ## Planar emotions
-
+Anticipation/Vigilance
+Optimisim/Zeal
+Joy/Ectasy
+love/Devotion
+Trust/Admiration
+Submission/Subservience
+Fear/Terror
+Awe/Petrification
+Surprise/Amazement
+Disapproval/Horror
+Sadness/Grief
+Remorse/Shame
+Disgust/Loathing
+Contempt/Hatred
+Anger/Rage
+Aggression/Domination
 
 # Resources
 Familiar -  use more actions
