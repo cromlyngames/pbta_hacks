@@ -109,7 +109,10 @@ ListofPlayerMoveBonus =(
     'bonus of mark xp',
     'power of springboard fiction (eg cast light)',
     'power of mechanical fiction (eg healing)',
-    'get knowledge '
+    'get knowledge ',
+    'juicy list of 3 options. 7+ choose 1, 10+ choose ',
+    'juicy move of 3 problems. 7+ avoid 1, 10+ avoid 3',
+    'Oddball list - juicy list of 3 options +1 oddball. Choose oddball for auto 10+ at a cost, or 7+ choose 1, 10+ choose ',
         )
    
 ListofPlayerEngineParts =(
