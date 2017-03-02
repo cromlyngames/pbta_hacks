@@ -74,4 +74,16 @@ Queen
 Arcanist
 
 
+# Building a city
+
+Why Urban fantasy? Why the city?
+
+Cities are close to us, they wrap around us, they feel familiar. In a horror game, familiar is the first step down into uncanny valley. You can talk of a city's loa, of it's spirit and people will understand the idea. They anthropomorphise the metro system, the highways, that weird building on the corner, that entire neighborhood of snooty new money. The idea of a city having a spirit, a gestalt, of all these fragements is intutive. 
+
+Cities are also complex. There's a lot of systems interacting. If a bridge breaks in tolkienesque fantasy, it is time to quest to the lumberjack camp, but a major bridge coming down in a city... well, there's ripples. Riots are an urban thing, chaos held at bay by three meals and 24 hours. Chase that thread of an idea, and you are half way to a zombie story. Rampant inequality and competition and consumption is the other thread in that plait. If you need to feed, masses of people is a resource. Bureacracy and rules frame the game.
+
+Pace of change is much higher in cities. New replaces old. New buildings. New tech. New tenants. Change can be on hourly basis. Consider the night time economy vs the early morning one. By same token, people wear different masks and layers for surroundings and times. The person fighting and spewing outside the club at 2am is the hollow eyed commuter at 8am is the blank professional by 3pm. This is why vampies and werewolves and the other descendents of gothic are such staples of urban fantasy. As ideas, they feed on places where there are hidden parts to the personality. 
+
+Cities are where opportunities are. They are where the sink estates are. They are where immigrants flock for a chance and where stability, safety craving suburbanites escape from. The pace of change is a promise and a threat. Scale and variety and interlinking is and opportunity and a threat too. Your buisness coud be wildly succesfull. A single burst pipe could fill six hundred homes with sewage.
+Cities have energy. They shine. And that is why magic users need to be there.
 
