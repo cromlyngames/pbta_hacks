@@ -198,15 +198,30 @@ def name_custom_stats(PremATuple, PremBTuple):
         ListOfStats.append(PremBTuple[0])
     return(ListOfStats)
     
+def shitty_playbook():
+    EmphasisList = [PremATuple, PremBTuple, [PremATuple, PremBTuple]]
+    C1 = random.randint(0,2)
+    C2 = random.randint(0,len(ListOfStats)-1)
+    C3 = random.randint(0,len(ListOfStats)-1)
+    C4 = random.randint(0,len(ListofPlayerEngineParts)-1)
+    StatA = ListOfStats[C2]
+    StatB = ListOfStats[C3]
+    Engine = ListofPlayerEngineParts[C4]
+    print("Focused on ", EmphasisList[C1])
+    print("via ", StatA, " ", StatB , " and ", Engine )
+    for i in range (1,8):
+        get_random_player_move(StatA, StatB, Engine)
     
         
 def get_random_player_move(StatA, StatB, Engine):
     ChooserList=[StatA, StatA, StatB, Engine]
-    C1 = random.randint(0,len(ChooserList))
-    C2 = random.randint(0,len(ListofPlayerMoveTriggers))
-    C3 = randome.randint(0, len(ListofPlayerMoveBonus))
+    C1 = random.randint(0,len(ChooserList)-1)
+    C2 = random.randint(0,len(ListofPlayerMoveTriggers)-1)
+    C3 = randome.randint(0, len(ListofPlayerMoveBonus)-1)
     
-    print
+    print("Move uses, ", ChooserList[C1])
+    print("when", ListofPlayerMoveTriggers[c2], "then", ListofPlayerMoveBonus[c3])
+    return()
     
     
     
