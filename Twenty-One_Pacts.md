@@ -34,7 +34,7 @@ Player ambition and cunning is valued here. You can justify using a Red card spe
 You could justify using a Black card spell to create a fireball that happens to burn the door or making the wood in the door frame come back to life and grow, crushing the door open. You could transform something into a bomb or an acorn)
 
 Spent cards go in the discard pile. When the stack runs out, shuffle the discard pile and turn it back over to make a new stack. 
-You can draw the top card off the stack and add it to your hand by spendign time in the fiction meditatiing, chanelling, or conducting some ritual suitable to your charactr. Normally you cannot hold more than four cards
+You can draw the top card off the stack and add it to your hand by spendign time in the fiction meditatiing, chanelling, or conducting some ritual suitable to your charactr. Normally you cannot hold more than four cards in your hand at a time.
 
 ## Advancement and gaining Resources
 When you invest time and story in developing your character a certain way, this is reflected in gaining certain resources. These go on the table in front of you and if it suits the fiction, can be used in a spell instead of drawing from your hand. They don't get discarded. They also trigger extra things as described below.
@@ -46,11 +46,43 @@ Speciality - More effects
 Mundane - Draw discards
 
 ### Familiar
+An old one but a good one. You've entered into contract with an entity. Reasonably loyal as long as you keep them fed. Has the definite advatnage for the player that you can be literally in two places at once.
+
+### Demense
+A territory, staked out and 
+
+### Implement
+
+### Speciality
+
+### Mundane
+
 
 ## Brain damage
-Sometimes it all goes wrong. This isn't the kind of game where you calcualte the damage done by a two handed falchion against two types of armour worn on different limbs to take away a number from a fixed stat and you die when you hit zero. It's the kind of gam where the torrents of uneratly magical energy curdle your brain a little and something in your reflection cracks.
+Sometimes it all goes wrong. This isn't the kind of game where you calcualte the damage done by a two handed falchion against two types of armour worn on different limbs to take away a number from a fixed stat and you die when you hit zero. It's the kind of gam where the torrents of unearthly magical energy curdle your brain a little and something in your reflection cracks.
 
+### Affects what the GM tells you
+Synasthasia
+Hallucinations
+Coherent hallucinations
+Amusica
+Colour blind
+Alinguistica
+Body language blind
+Face blind
+Life blind
+Aliterate
+Innumerate
+Short term memory loss
+Long term memory loss
+Friend/foe blind
 
+### Affects how you react to things
+Fight/Flight/Freeze primed
+Shape dysmorphia
+Gender dysmorphia
+Obessiion itdeation
+Addiction
 
 
 # Setting up Planes
