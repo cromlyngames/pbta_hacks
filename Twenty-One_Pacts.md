@@ -5,8 +5,7 @@ Can you keep a secret?
 
 # Basic Engine
 ## Setup
-You will need playbooks, and a deck of cards for every three players (not counting the GM). Four players means two decks. Seven players means three.
-Player's choose playbooks and assemble their characters.
+You will need playbooks, and a deck of cards for every three players (not counting the GM). Four players means two decks. Seven players means three. Player and GM create some planar entintites, and disucss the city thier character's know. More on both later. Players choose playbooks and assemble their characters.
 
 The GM shuffles cards together, and deals all players 13 cards to start their deck.
 Players may not pickup, lookup or alter the order of their stack. The boardgaming terminology is a 'deck-builder'.
@@ -17,7 +16,7 @@ Players can draw the top four cards of their deck into their hand. These represe
 
 ## During play
 When something is uncertain and important, you do it in the fiction first and describe what you are doing in the fiction that triggers the move. Sometimes a GM may call for a move based on what is happening in the fiction. (INSERT EXAMPLE)
-After the move triggers, the player turns over the top card from their stack and then chooses to turn over a second card, OR play a card from their hand. If the result is still below 21, they can choose again.
+After the move triggers, the player turns over the top card from their stack and then chooses to turn over a second card, OR play a card from their hand. Certain resources and abilities will allow the player to place more cards.
 
 Like the card game 21, the results are added up, picture cards count as 10, aces count as 1.
 As a general rule for moves:
@@ -33,6 +32,26 @@ A move made with a mixture is a transformation spell
 (so a two black card spell could create a statue out of thin air. A two red card spell could destroy a door. A mixture would be needed to turn someone into a frog)
 Player ambition and cunning is valued here. You can justify using a Red card spell to destroy parts of a stone block to leave a statue  behind.
 You could justify using a Black card spell to create a fireball that happens to burn the door or making the wood in the door frame come back to life and grow, crushing the door open. You could transform something into a bomb or an acorn)
+
+Spent cards go in the discard pile. When the stack runs out, shuffle the discard pile and turn it back over to make a new stack. 
+You can draw the top card off the stack and add it to your hand by spendign time in the fiction meditatiing, chanelling, or conducting some ritual suitable to your charactr. Normally you cannot hold more than four cards
+
+## Advancement and gaining Resources
+When you invest time and story in developing your character a certain way, this is reflected in gaining certain resources. These go on the table in front of you and if it suits the fiction, can be used in a spell instead of drawing from your hand. They don't get discarded. They also trigger extra things as described below.
+
+Familiar -  use more actions
+Demense - Draw more cards
+Implement - Use more cards
+Speciality - More effects
+Mundane - Draw discards
+
+### Familiar
+
+## Brain damage
+Sometimes it all goes wrong. This isn't the kind of game where you calcualte the damage done by a two handed falchion against two types of armour worn on different limbs to take away a number from a fixed stat and you die when you hit zero. It's the kind of gam where the torrents of uneratly magical energy curdle your brain a little and something in your reflection cracks.
+
+
+
 
 # Setting up Planes
 
@@ -60,13 +79,6 @@ Aggression/Domination
 ## example tactics
 Possession, infection, haunting, hunter, cat's paws, 
 traps, territory, trade, spawn, passer, recruiter, crafting 
-
-# Resources
-Familiar -  use more actions
-Demense - Draw more cards
-Implement - Use more cards
-Speciality - More effects
-Mundane - Draw discards
 
 # Playbooks
 Anctinet
