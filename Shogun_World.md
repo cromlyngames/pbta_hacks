@@ -4,9 +4,9 @@ A game of intrigue, muddy peasants, and, to a lesser extent, samurai action.
 
 
 ## Agenda
-Don't waste your player's time
-Play to find out what happens
-Is unity more important than honour?
+* Don't waste your player's time
+* Play to find out what happens
+* Is unity more important than honour?
 
 
 ## Principles
