@@ -123,11 +123,11 @@ When the situation escalates and weapons are drawn, remember your training and R
 Cronin (rich merchant class), Ronin(masterless warriors) and Kaichi (samurai of the lowest rank, where I will include koyakunin and ashigaru)
 
 Nine playbooks:
-Rice rice = Cronin merchant
+Rice rice = Chōnin merchant
 Rice Ki = Koyakunin (petty official)
-Rice Honour = Cronin/Samurai 
+Rice Honour = Chōnin/Samurai 
 Ki Rice = Takumi - artisan
-Ki Ki = monk
+Ki Ki = Souryo (monk)
 Ki Honour = Sensei
 Honour Rice = Samurai/Heimin
 Honour Ki = Ashigaru (spearhead)
