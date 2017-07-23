@@ -9,24 +9,24 @@ A game of intrigue, muddy peasants, and, to a lesser extent, samurai action.
 * Is unity more important than honour?
 
 
-## Principles
-### World
-* sprinkle evocative details everywhere 
-* make the world seem real
-* build a bigger world through play
-* look at npcs and your ideas through crosshairs
-* name everyone, make everyone human
-* always introduce someone by their clan before any other detail
-### Player Characters
-* create interesting dilemmas not interesting plots
-* address yourself to the characters not players
-* ask provocative questions and build on the answers 
-* be a fan of the players characters 
-* sometimes, reflect a question back upon the players 
-### Gm Moves
-* make your move but misdirect
-* make your move, but never speak its name
-* Think off screen too
+## Principles 
+### World 
+* sprinkle evocative details everywhere  
+* make the world seem real 
+* build a bigger world through play 
+* look at npcs and your ideas at sword-point 
+* name everyone, make everyone human 
+* always introduce someone by their clan before any other detail 
+### Player Characters 
+* create interesting dilemmas not interesting plots 
+* address yourself to the characters not players 
+* ask provocative questions and build on the answers  
+* be a fan of the players characters  
+* sometimes, reflect a question back upon the players  
+### Gm Moves 
+* make your move but misdirect 
+* make your move, but never speak its name 
+* Think off screen too 
 * always ask yourself if an npc action is honourable. Justify it
 
 
@@ -37,28 +37,28 @@ A game of intrigue, muddy peasants, and, to a lesser extent, samurai action.
 * Use a front or threat move
 * Offer an opportunity, with or without a cost
 * Turn a failed move back on them
-* Offer Stuff that's painfully expensive but good
+* Offer stuff that's painfully expensive but good
 * Put the spotlight on someone
-* seperate them
+* separate them
 * Put them together 
-* make thier lives complicated now
+* make their lives complicated now
 * use up their resources 
-* activate stuff's bad side
+* activate their stuff's bad side
 * deal harm to players honour, justified or sneaky
 * create player-npc-clan triangle over a resource 
 
 ## Player Core 
 
-You play a character in a small Japanese town. The game is called Shogun World, but all player characters will be drawn from the Cronin (rich merchant class), Ronin(masterless warriors) and Kaichi (samuri of the lowest rank, where I will include koyakunin and ashigaru). At this time stratification was great, intermarriage between ranks of samurai was forbidden and the stipend for the lowest rank was a mere 15 koku of rice a year, or 13 koku and rations for two people or even less! This was at a time when one koku was a years worth of rice. A childless couple living along might be able to live on this, but with children and old people most of the low ranks have had to take on 'side-work', neglecting their training or studies to survive. Others marry into the Cronin families, bringing the prestige of the samurai class with them and leaving behind the poverty. This is a world where a lower rank samurai should remove his shoes and bow to a passing high rank, where any samurai may kill a commoner who does not show them sufficent respect, and where the scorn of workers is so ingrained a samuiria without a servent must wait for night to shop in the town to avoid being seen carrying everyday things.
+You play a character in a small Japanese town. The game is called Shogun World, but all player characters will be drawn from the Cronin (rich merchant class), Ronin(masterless warriors) and Kaichi (samurai of the lowest rank, where I will include koyakunin and ashigaru). At this time stratification was great, intermarriage between ranks of samurai was forbidden and the stipend for the lowest rank was a mere 15 koku of rice a year, or 13 koku and rations for two people or even less! This was at a time when one koku was a years worth of rice. A childless couple living along might be able to live on this, but with children and old people most of the low ranks have had to take on 'side-work', neglecting their training or studies to survive. Others marry into the Cronin families, bringing the prestige of the samurai class with them and leaving behind the poverty. This is a world where a lower rank samurai should remove his shoes and bow to a passing high rank, where any samurai may kill a commoner who does not show them sufficient respect, and where the scorn of workers is so ingrained a samurai without a servant must wait for night to shop in the town to avoid being seen carrying everyday things.
 
 You start with three stats: Rice, Ki and Honour
 
-Rice represents your material wealth, the income you recieve from vassals and the power asscoaited with that.
+Rice represents your material wealth, the income you receive from vassals and the power associated with that.
 Ki represents your inner energy, your will to live and connection to the natural world.
-Honour represents your social standing, your ability to fufill your obligations and your connection to the martial world.
+Honour represents your social standing, your ability to fulfil your obligations and your connection to the martial world.
 Stats can vary between maximums of +3 and -2. If it goes less then -2 your character is in mortal peril.
 
-You also have a clan. Everybody has a clan. Depending on the realtionship between your clans, this can make things interesting.
+You also have a clan. Everybody has a clan. Depending on the relationship between your clans, this can make things interesting.
 When you want to do something, do it. If that happens to trigger a move, then do what the move tells you to do, then carry on. A 'Roll+x' means roll two six-sided dice and add that stat.
 
 
@@ -67,8 +67,8 @@ When you want to do something, do it. If that happens to trigger a move, then do
 ### Declare Oath
 when you publicly declare an oath, write it down. PCs and NPCs can hold you to it. Make sure it is specific and can be completed. 
 
-### Fufill Oath
-When you fufill a formal Oath, Roll+ Honour
+### Fulfil Oath
+When you fulfil a formal Oath, Roll+ Honour
 * On a 10+ you gain +1 to Honour or Ki
 * On a 7-9 you gain +1 to any stat
 * On a 6- You gain +1 to any stat from public recognition, but the Oath holder does not consider your Oath complete and will explain why, and what further thing they require.
@@ -84,7 +84,7 @@ When you use this move on a PC, they may choose between marking Xp to go along w
 When you directly and clearly state a PC or an NPCs actions are not honourable, Roll+Honour
 * On a 10+ they are abashed, will stop the behaviour and must offer you something twice as valuable. You must accept it. 
 * On a 7-9 they are shamed. Choose two: they stop the behaviour; they make amends; they will not seek revenge.
-* On a 6- they escalate the situation unless you take -1 to your Ki and backdown.
+* On a 6- they escalate the situation unless you take -1 to your Ki and back down.
 When you use this move on a PC, they may choose between marking Xp to go along with it and taking a -1 to a single stat to make the situation go away.
 
 ### Demand Obligation
@@ -107,7 +107,7 @@ When the world presses down on you to give up on something and you summon up you
 * On a 6- Your nerve fails. Whatever the opposition was moves forward.
 
 ### Bared Steel
-When the situation escalates and weapons are drawn, remeber your training and Roll+Honour
+When the situation escalates and weapons are drawn, remember your training and Roll+Honour
 * On a 10+ Your skill is true. Choose three:
   ** They suffer deep wounds (-1 to Honour for them)
   ** You take control of something from them
@@ -120,10 +120,18 @@ When the situation escalates and weapons are drawn, remeber your training and Ro
 
 # Playbooks
 
+Cronin (rich merchant class), Ronin(masterless warriors) and Kaichi (samurai of the lowest rank, where I will include koyakunin and ashigaru)
+
 Nine playbooks:
-Rice rice = merchant
-Rice Ki = advisor
-Rice Honour = samurai 
+Rice rice = Cronin merchant
+Rice Ki = Koyakunin (petty official)
+Rice Honour = Cronin/Samurai 
+Ki Rice = Takumi - artisan
+Ki Ki = monk
+Ki Honour = Sensei
+Honour Rice = Samurai/Heimin
+Honour Ki = Ashigaru (spearhead)
+Honour Honour = Ronin
 
 
 
