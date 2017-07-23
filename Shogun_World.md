@@ -64,6 +64,15 @@ When you want to do something, do it. If that happens to trigger a move, then do
 
 ## Basic Moves
 
+### Declare Oath
+when you publicly declare an oath, write it down. PCs and NPCs can hold you to it. Make sure it is specific and can be completed. 
+
+### Fufill Oath
+When you fufill a formal Oath, Roll+ Honour
+* On a 10+ you gain +1 to Honour or Ki
+* On a 7-9 you gain +1 to any stat
+* On a 6- You gain +1 to any stat from public recognition, but the Oath holder does not consider your Oath complete and will explain why, and what further thing they require.
+
 #### Suggest Obedience
 When you subtly and politely remind a PC or an NPC that they need to do something, Roll+Ki
 * On a 10+ they don't even realise, but will carry out that action at the first opportunity.
@@ -94,7 +103,7 @@ When you attempt to bribe or corrupt a PC or NPC, say what you'd like them to do
 ### Unbending Will
 When the world presses down on you to give up on something and you summon up your inner strength, Roll+Ki
 * On a 10+ You walk through the resistance as though it was not there
-* On a 7-9 You press on but it will come back to haunt you, or will leave an alley in a tough place
+* On a 7-9 You press on but it will need an Oath, come back to haunt you, or will leave an ally in a tough place
 * On a 6- Your nerve fails. Whatever the opposition was moves forward.
 
 ### Bared Steel
