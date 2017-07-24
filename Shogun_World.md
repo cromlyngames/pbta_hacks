@@ -49,7 +49,7 @@ A game of intrigue, muddy peasants, and, to a lesser extent, samurai action.
 
 ## Player Core 
 
-You play a character in a small Japanese town. The game is called Shogun World, but all player characters will be drawn from the Cronin (rich merchant class), Ronin(masterless warriors) and Kaichi (samurai of the lowest rank, where I will include koyakunin and ashigaru). At this time stratification was great, intermarriage between ranks of samurai was forbidden and the stipend for the lowest rank was a mere 15 koku of rice a year, or 13 koku and rations for two people or even less! This was at a time when one koku was a years worth of rice. A childless couple living along might be able to live on this, but with children and old people most of the low ranks have had to take on 'side-work', neglecting their training or studies to survive. Others marry into the Cronin families, bringing the prestige of the samurai class with them and leaving behind the poverty. This is a world where a lower rank samurai should remove his shoes and bow to a passing high rank, where any samurai may kill a commoner who does not show them sufficient respect, and where the scorn of workers is so ingrained a samurai without a servant must wait for night to shop in the town to avoid being seen carrying everyday things.
+You play a character in a small Japanese town. The game is called Shogun World, but all player characters will be drawn from the Chōnin (rich merchant class), Ronin(masterless warriors) and Kaichi (samurai of the lowest rank, where I will include koyakunin and ashigaru). At this time stratification was great, intermarriage between ranks of samurai was forbidden and the stipend for the lowest rank was a mere 15 koku of rice a year, or 13 koku and rations for two people or even less! This was at a time when one koku was a years worth of rice. A childless couple living along might be able to live on this, but with children and old people most of the low ranks have had to take on 'side-work', neglecting their training or studies to survive. Others marry into the Cronin families, bringing the prestige of the samurai class with them and leaving behind the poverty. This is a world where a lower rank samurai should remove his shoes and bow to a passing high rank, where any samurai may kill a commoner who does not show them sufficient respect, and where the scorn of workers is so ingrained a samurai without a servant must wait for night to shop in the town to avoid being seen carrying everyday things.
 
 You start with three stats: Rice, Ki and Honour
 
@@ -123,13 +123,13 @@ When the situation escalates and weapons are drawn, remember your training and R
 Cronin (rich merchant class), Ronin(masterless warriors) and Kaichi (samurai of the lowest rank, where I will include koyakunin and ashigaru)
 
 Nine playbooks:
-Rice rice = Chōnin merchant
+Rice rice = Chōnin (merchant)
 Rice Ki = Koyakunin (petty official)
 Rice Honour = Chōnin/Samurai 
-Ki Rice = Takumi - artisan
+Ki Rice = Takumi (artisan)
 Ki Ki = Souryo (monk)
 Ki Honour = Sensei
-Honour Rice = Samurai/Heimin
+Honour Rice = Samurai/Heimin (peasent)
 Honour Ki = Ashigaru (spearhead)
 Honour Honour = Ronin
 
