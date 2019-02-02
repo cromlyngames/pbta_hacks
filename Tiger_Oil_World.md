@@ -31,14 +31,20 @@ On a 10-16 choose one and ask about the other.
 Any thing can be used with any move, if it makes sense. 
 Example Gang of Mooks or White Dojo could both do the Crowd Control move, if you have it. 
 
-T1: White Dojo.
-M1:
+T1: White Dojo. It has two of peaceful garden, loyal beginner students, infirmary and medicines, something valuable and old.
+When outside it, Choose: hidden weapons, friendly face, cop informants
+M1: When you use nothing to stand in defense of yourself or others, roll.
+On a 17+ an incoming attack is redirected or attacker restrained, your choice
+On a 10-16 ask another player which you achieve
 
-T2: Black Dojo.
-M2:
+T2: Black Dojo. It has two of bloodstained ring, booby traps, mad ex-leader, something of a dark reflection
+When outside it, Choose: brutal weapons, tats and scars, thug henchman 
+M2: When you use something to demand with threats of violence, Roll.
+On a 17+ they give it to you if they can
+On a 10-16 you MUST follow through on threat, afterwards they give it to you if they can
 
 T3: Secret Dojo.
-M3:
+M3: 
 
 T4: Gang of mooks.
 M4:
@@ -73,4 +79,4 @@ When you have two or lower harm left, roll at disadvantage.
 
 When you use a thing mark if it was failure, complication or scene stealing success. 
 Once a thing has all three it is *improved* and always rolls with advantage.
-If an improved thing can be improved again you may take a new thing and move.
+If an improved thing can be improved again you may take a new thing or move.
