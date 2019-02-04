@@ -12,7 +12,7 @@ Generally, that means rolling a d20.
 -If you roll with disadvantage, you roll twice and take the lowest.
 -Each advantage and disadvantage pair cancel, so if you have two advantages and one disadvantage you roll with advantage.
 
-#Basic moves: everyone gets these:
+# Basic moves: everyone gets these:
 B1, when you *interrogate* someone: 
 Roll. 
 If you share a thing, roll with advantage. 
@@ -31,28 +31,35 @@ B4, when you *move fast to dodge danger*: Roll.
 On a 17+ avoid harm and get where you are going.
 On a 10-16 choose one and ask about the other.
 
-#Things and thing-moves.
-Start with three of these each.
+# Things and thing-moves.
+Start with three things and three thing moves.
 Any thing can be used with any move, if it makes sense. 
 Example Gang of Mooks or loyal students of the White Dojo could both do the Crowd Control move, if you have it. 
 
-##T1: White Dojo. 
-It has two of peaceful garden, loyal beginner students, infirmary and medicines, something valuable and old.
-When outside it, Choose: hidden weapons, friendly face, cop informants
-##M1: 
+## T1: White Dojo. 
+It has two of peaceful garden, loyal beginner students, infirmary and medicines, a subtle protective spirit
+When outside it, Choose one : hidden weapons, friendly face, cop informants
+## M1: Open Palm Form
 When you use nothing to stand in defense of yourself or others, roll.
 On a 17+ an incoming attack is redirected or attacker restrained, your choice
 On a 10-16 ask another player which you achieve
 
-##T2: Black Dojo. 
+## T2: Black Dojo. 
 It has two of bloodstained ring, booby traps, mad ex-leader, something of a dark reflection
-When outside it, Choose: brutal weapons, tats and scars, thug henchman 
-##M2: When you use something to demand with threats of violence, Roll.
+When outside it, Choose one: brutal weapons, tats and scars, thug henchman 
+## M2: Arrogance of Strength
+When you use something to demand with threats of violence, Roll.
 On a 17+ they give it to you if they can
 On a 10-16 you MUST follow through on threat, afterwards they give it to you if they can
 
-T3: Secret Dojo.
-M3: 
+## T3: Secret Dojo.
+It has two of rooftop walkways, waterfall entrance, shooting range, disguise workshop
+When outside it choose one: climbing gear, knockout drugs, cleaning equipment 
+## M3: 
+When you use a thing to explain how you are already present in the scene, roll
+On a 17+ you are there, 
+On a 10-16 you are there, but it uses up your thing, or in an awkward spot or a dangerous position. Ask the Gm
+
 
 T4: Gang of mooks.
 M4:
