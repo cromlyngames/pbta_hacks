@@ -32,9 +32,11 @@ On a 17+ avoid harm and get where you are going.
 On a 10-16 choose one and ask about the other.
 
 # Things and thing-moves.
-Start with three things and three thing moves.
+Start with three things and three thing moves. 
+You may not start with duplicates, but can aquire them later.
 Any thing can be used with any move, if it makes sense. 
-Example Gang of Mooks or loyal students of the White Dojo could both do the Crowd Control move, if you have it. 
+Example Gang of Mooks or loyal students of the White Dojo could both do the Crowd Control move, if you have it.
+If you need inspiration, try rolling for things using the d20.
 
 ## T1: White Dojo. 
 It has two of peaceful garden, loyal beginner students, infirmary and medicines, a subtle protective spirit
@@ -46,7 +48,7 @@ On a 10-16 ask another player which you achieve
 
 ## T2: Black Dojo. 
 It has two of bloodstained ring, booby traps, mad ex-leader, something of a dark reflection
-When outside it, Choose one: brutal weapons, tats and scars, thug henchman 
+When outside it, Choose one: brutal weapons, tats and scars, huge thug henchman 
 ## M2: Arrogance of Strength
 When you use something to demand with threats of violence, Roll.
 On a 17+ they give it to you if they can
@@ -61,14 +63,28 @@ On a 17+ you are there,
 On a 10-16 you are there, but it uses up your thing, or in an awkward spot or a dangerous position. Ask the Gm
 
 
-T4: Gang of mooks.
-M4:
+## T4: Gang of mooks.
+Choose four of: hand-axes, fireworks, klashnikovs, farmer strength, a tall slum, a casino, a police station, a shipping wharehouse, sharp suits, traditonal clothes, pet animals, motor-bikes, cars, lorries
+## M4:
+When you use an allied gang to control a crowded scene, roll
+On a 17+ you are in control, pick who next interacts with who
+On a 10-16 you are in control, but ask the GM what the collateral damage to people/place or reputation is
 
-T5: Oily Garage
-M5: 
 
-T6: Aunty's Kitchen
-M6
+## T5: Oily Garage
+It has your vehicle (bike, car, truck, boat, helicopter). It also has one of: another vehicle (Gm choice); a well stocked workshop, a secret weapons cache, a trusted, fat, friend
+## M5:
+When you are in a chase and use a thing get closer or escape, roll
+On a 17+ hold one. Spend it whenever you like to get closer or escape.
+On a 10-16 they make take an action first, and then you get closer or escape.
+
+## T6: Aunty's Kitchen
+It's a combination of: steakhouse, noodle fry, bao bakery, soup kitchen, gin palace, ice-cream parlour, 
+Choose one of: conviently mobile, Firebelly sauce, infinite chef knives, aunty's gossip network, punk delivery boy
+## M6
+When you use a thing to take care of someone and distrct another, roll
+On a 17+ you do it. They heal up, the other is distracted.
+On a 10-16 choose one or the other.
 
 T7: Antique Weapon
 M7:
